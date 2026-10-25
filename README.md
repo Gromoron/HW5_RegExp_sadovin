@@ -59,3 +59,13 @@
 
 
 Удачи! ✨✨
+
+
+
+## Дополнительная музыка и исполнение.
+Малоизвестная Исландская песня (на исландском!) баллада известной группы KALEO.
+
+и короткое интро-исполнение
+[Vor í Vaglaskógi](https://www.youtube.com/watch?v=Da5qQD_RpEQ)
+
+<video src="song_video.mp4" controls width="640"></video>
