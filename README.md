@@ -70,4 +70,4 @@
 https://github.com/user-attachments/assets/12681418-3e9a-4401-bf11-94e65351116b
 
 
-[![Исполнение]]([https://www.youtube.com/watch?v=ID_ВИДЕО](https://github.com/user-attachments/assets/12681418-3e9a-4401-bf11-94e65351116b))
+[GitHub блокирует отображение видео из маркдауна на сайте, поэтому его можно увидеть по этой ссылке, в корне репозитория. Vor í Vaglaskógi](([https://github.com/user-attachments/assets/12681418-3e9a-4401-bf11-94e65351116b](https://drive.google.com/drive/u/0/folders/15dVrj6-CiOJxvcAaLJlP2mbcEXezM23X)))
